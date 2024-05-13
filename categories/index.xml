@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>🗞️ 分类 on 👦阳阳的学习资料</title>
+    <link>https://afrusrsc.github.io/yangyang/categories/</link>
+    <description>Recent content in 🗞️ 分类 on 👦阳阳的学习资料</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>zh</language>
+    <copyright>2024 Jesse Jin</copyright>
+    <lastBuildDate>Thu, 16 May 2024 12:41:26 +0800</lastBuildDate>
+    <atom:link href="https://afrusrsc.github.io/yangyang/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>诗</title>
+      <link>https://afrusrsc.github.io/yangyang/categories/%E8%AF%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://afrusrsc.github.io/yangyang/categories/%E8%AF%97/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

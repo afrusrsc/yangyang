@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>孟浩然 on 👦阳阳的学习资料</title>
+    <link>https://afrusrsc.github.io/yangyang/tags/%E5%AD%9F%E6%B5%A9%E7%84%B6/</link>
+    <description>Recent content in 孟浩然 on 👦阳阳的学习资料</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>zh</language>
+    <copyright>2024 Jesse Jin</copyright>
+    <lastBuildDate>Tue, 14 May 2024 11:38:39 +0800</lastBuildDate>
+    <atom:link href="https://afrusrsc.github.io/yangyang/tags/%E5%AD%9F%E6%B5%A9%E7%84%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>宿建德江</title>
+      <link>https://afrusrsc.github.io/yangyang/posts/tangshi/sujiandejiang/</link>
+      <pubDate>Tue, 14 May 2024 11:38:39 +0800</pubDate>
+      <guid>https://afrusrsc.github.io/yangyang/posts/tangshi/sujiandejiang/</guid>
+      <description>唐 孟浩然 移舟泊烟渚
+日暮客愁新
+野旷天低树
+江清月近人</description>
+    </item>
+    <item>
+      <title>春晓</title>
+      <link>https://afrusrsc.github.io/yangyang/posts/tangshi/chunxiao/</link>
+      <pubDate>Sun, 12 May 2024 16:04:13 +0800</pubDate>
+      <guid>https://afrusrsc.github.io/yangyang/posts/tangshi/chunxiao/</guid>
+      <description>唐 孟浩然 春眠不觉晓
+处处闻啼鸟
+夜来风雨声
+花落知多少</description>
+    </item>
+  </channel>
+</rss>

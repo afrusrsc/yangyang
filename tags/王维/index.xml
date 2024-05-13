@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>王维 on 👦阳阳的学习资料</title>
+    <link>https://afrusrsc.github.io/yangyang/tags/%E7%8E%8B%E7%BB%B4/</link>
+    <description>Recent content in 王维 on 👦阳阳的学习资料</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>zh</language>
+    <copyright>2024 Jesse Jin</copyright>
+    <lastBuildDate>Tue, 14 May 2024 11:31:00 +0800</lastBuildDate>
+    <atom:link href="https://afrusrsc.github.io/yangyang/tags/%E7%8E%8B%E7%BB%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>相思</title>
+      <link>https://afrusrsc.github.io/yangyang/posts/tangshi/xiangsi/</link>
+      <pubDate>Tue, 14 May 2024 11:31:00 +0800</pubDate>
+      <guid>https://afrusrsc.github.io/yangyang/posts/tangshi/xiangsi/</guid>
+      <description>唐 王维 红豆生南国
+春来发几枝
+愿君多采撷
+此物最相思</description>
+    </item>
+    <item>
+      <title>鹿柴</title>
+      <link>https://afrusrsc.github.io/yangyang/posts/tangshi/luzhai/</link>
+      <pubDate>Tue, 14 May 2024 11:19:45 +0800</pubDate>
+      <guid>https://afrusrsc.github.io/yangyang/posts/tangshi/luzhai/</guid>
+      <description>唐 王维 空山不见人
+但闻人语响
+返景入深林
+复照青苔上</description>
+    </item>
+  </channel>
+</rss>
